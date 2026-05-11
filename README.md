@@ -373,17 +373,5 @@ const createMessage = async (messageData) => {
 5. Open a Pull Request
 
 
-## 🆘 Support
 
-For support, please contact:
-- Email: support@tenantportal.com
-- GitHub Issues: [Create an issue](https://github.com/your-username/tenant-portal/issues)
 
-## 🎯 Future Enhancements
-
-- **File Upload**: Attach images to maintenance requests
-- **Notifications**: Email and push notifications
-- **Analytics**: Usage statistics and reports
-- **Mobile App**: React Native mobile application
-- **Multi-tenancy**: Support for multiple properties
-- **Integration**: Third-party property management software integration
